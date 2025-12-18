@@ -2,8 +2,8 @@
 
 _A Modern & Minimal Flutter To-Do App_
 
-TaskFlow is a clean, professional task management application built with **Flutter** and **Hive**.  
-The goal of this project was to practice **local database integration**, improve **UI/UX consistency**, and build a **real-world CRUD app** suitable for production-level learning.
+TaskFlow is a clean, professional task management application built with Flutter and Hive.  
+The goal of this project was to practice local database integration, improve UI/UX consistency, and build a real-world CRUD app suitable for production-level learning.
 
 ---
 
@@ -46,17 +46,7 @@ The goal of this project was to practice **local database integration**, improve
 - Emulator or physical device
 
 ---
-
-# Installation
-
-```bash
-git clone https://github.com/Rumaisa19/taskflow_flutter.git
-cd taskflow_flutter
-flutter pub get
-flutter run
----
-
- 📌 Purpose
+#📌 Purpose
 
 This project was built to:
 
@@ -66,9 +56,17 @@ This project was built to:
 - Apply real-world CRUD (Create, Read, Update, Delete) operations
 
 ---
-
  👩‍💻 Author
 
 **Rumaisa Mushtaq**  
 Flutter Developer  
 Learning and building production-ready apps step by step
+
+# Installation
+
+```bash
+git clone https://github.com/Rumaisa19/taskflow_flutter.git
+cd taskflow_flutter
+flutter pub get
+flutter run
+---
