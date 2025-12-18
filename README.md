@@ -1,16 +1,74 @@
-# to_do_app
+# TaskFlow 📝
 
-A new Flutter project.
+_A Modern & Minimal Flutter To-Do App_
 
-## Getting Started
+TaskFlow is a clean, professional task management application built with **Flutter** and **Hive**.  
+The goal of this project was to practice **local database integration**, improve **UI/UX consistency**, and build a **real-world CRUD app** suitable for production-level learning.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Add, edit, delete tasks
+- Mark tasks as completed
+- Persistent local storage using Hive
+- Modern minimalist UI 
+- Reusable bottom sheets & widgets
+- Offline-first architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+# 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- **Hive** (Local NoSQL database)
+- **Material UI**
+- **Reusable Widgets & Clean Code Practices**
+
+---
+
+# 📸 Screenshots
+
+1. Splash Screen [](screenshots/splash.png)
+2. Home Screen [](screenshots/home.png)
+3. Add Task [](screenshots/add_task.png)
+4. Tasks [](screenshots/tasks.png)
+5. Task Details Screen [](screenshots/task_details.png)
+6. Edit Task [](screenshots/edit_task.png)
+
+# 🚀 Getting Started
+
+# Prerequisites
+
+- Flutter SDK (latest stable)
+- Dart SDK
+- Android Studio / VS Code
+- Emulator or physical device
+
+---
+
+# Installation
+
+```bash
+git clone https://github.com/Rumaisa19/taskflow_flutter.git
+cd taskflow_flutter
+flutter pub get
+flutter run
+---
+
+ 📌 Purpose
+
+This project was built to:
+
+- Strengthen understanding of Flutter app architecture
+- Learn and implement Hive for local data persistence
+- Improve UI/UX consistency using reusable widgets
+- Apply real-world CRUD (Create, Read, Update, Delete) operations
+
+---
+
+ 👩‍💻 Author
+
+**Rumaisa Mushtaq**  
+Flutter Developer  
+Learning and building production-ready apps step by step
